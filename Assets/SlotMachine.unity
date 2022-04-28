@@ -143,7 +143,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5d34ce34a8b974b7b937a411647b7b2a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8c57a57f4d4724e4a99cd622a8b1bcc1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1447,7 +1447,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c06314111918f4ff5a00672ec0af771b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc56ccd3b25284a25897b482e4cdf45d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1523,7 +1523,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c06314111918f4ff5a00672ec0af771b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc56ccd3b25284a25897b482e4cdf45d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12015,34 +12015,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SlotTypes:
-  - rewardCategory: 2
+  - rewardCategory: 1
     rewardValue: 25
     rewardChance: 10
-    slotIcon: {fileID: 21300000, guid: b1330e7bb66a34bb5bfd180088dc58ee, type: 3}
-  - rewardCategory: 2
+    slotIcon: {fileID: 21300000, guid: cbf76b8df326a46c8a610ffa11326919, type: 3}
+  - rewardCategory: 1
     rewardValue: 5
-    rewardChance: 20
-    slotIcon: {fileID: 21300000, guid: c06314111918f4ff5a00672ec0af771b, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 8b275ed09b1944e7a86cb8f172f747dd, type: 3}
   - rewardCategory: 1
     rewardValue: 250
-    rewardChance: 30
-    slotIcon: {fileID: 21300000, guid: c872464202cb849ecaa5ec5fd59862a4, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 884c658cab9ef4a1a96517f6a729496c, type: 3}
   - rewardCategory: 1
     rewardValue: 125
-    rewardChance: 40
-    slotIcon: {fileID: 21300000, guid: 2d2722e953e184f8e9f929595bd0763f, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: df57cdc602e214197b2f0b3b5ee065d3, type: 3}
   - rewardCategory: 1
     rewardValue: 90
-    rewardChance: 50
-    slotIcon: {fileID: 21300000, guid: 84b7e9a16b96049668bfdeadbd9732be, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 0e5475aa5401e4053a6a00f7308686c6, type: 3}
   - rewardCategory: 1
     rewardValue: 70
-    rewardChance: 75
-    slotIcon: {fileID: 21300000, guid: 75333d56523404286bd12e47f1d0d2a1, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 144eea23c393447ce97214eb55e28ff0, type: 3}
   - rewardCategory: 1
     rewardValue: 50
-    rewardChance: 100
-    slotIcon: {fileID: 21300000, guid: 36bd76b5a8dab4883842f17dcf894794, type: 3}
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: b6dfcb947e5a74333858e849e50c4ba8, type: 3}
+  - rewardCategory: 1
+    rewardValue: 50
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 0e5475aa5401e4053a6a00f7308686c6, type: 3}
+  - rewardCategory: 1
+    rewardValue: 50
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: dc56ccd3b25284a25897b482e4cdf45d, type: 3}
+  - rewardCategory: 1
+    rewardValue: 50
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 0e5475aa5401e4053a6a00f7308686c6, type: 3}
+  - rewardCategory: 1
+    rewardValue: 50
+    rewardChance: 10
+    slotIcon: {fileID: 21300000, guid: 6f8a8192b4b2c473eb0bbe14efa15679, type: 3}
   showRewardListTable: 0
   rewardTablePanel: {fileID: 8742643641681763363}
   RewardListTable:
@@ -14265,7 +14281,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &8742643641946023148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14990,7 +15006,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c06314111918f4ff5a00672ec0af771b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dc56ccd3b25284a25897b482e4cdf45d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
